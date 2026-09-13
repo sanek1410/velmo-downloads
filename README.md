@@ -1,11 +1,5 @@
 # VELMO для Android
 
-[Скачать](https://github.com/sanek1410/velmo-downloads/releases/latest/download/VELMO.apk)
+[Скачать](https://github.com/sanek1410/velmo-downloads/releases/latest) · [Скачать из Telegram](https://t.me/velmovpn_bot?start=apk)
 
-[Скачать из Telegram](https://t.me/velmovpn_bot?start=apk)
-
-Основной способ — GitHub. Если он недоступен, бот отправит установщик прямо в чат Telegram.
-
-Установите APK поверх предыдущей версии VELMO. Удалять приложение перед обновлением не нужно.
-
-[Все версии и файлы проверки](https://github.com/sanek1410/velmo-downloads/releases)
+На странице GitHub нажмите **«Скачать APK»**. Установите обновление поверх предыдущей версии приложения.
